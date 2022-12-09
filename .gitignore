@@ -2,7 +2,7 @@
 .idea/
 .vs/
 cmake-build-*/
-test.*
+build/
 
 # Prerequisites
 *.d
